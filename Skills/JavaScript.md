@@ -19,7 +19,7 @@
   - `typeof` u
   - Destructuring
   - Generators
-  - Iterators 
+  - Iterators h
   - Async generator
   - Async iterator
   - Chaining
@@ -69,7 +69,7 @@
   - `throw`
   - `break` u
   - `continue`
-  - `import` 
+  - `import` k
   - `export`
   - `label`
   - `try..catch`

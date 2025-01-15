@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types 
+  - Data types k
   - Performance tuning
   - Migrations
   - Schema versioning

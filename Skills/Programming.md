@@ -106,7 +106,7 @@
   - Coroutine
 - Data structures
   - Array u
-  - Structure 
+  - Structure k
   - Record
   - Enum
   - Instance
