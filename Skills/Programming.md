@@ -4,63 +4,63 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm u
-  - Syntax u
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm k
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language u
+  - Programming language: 🖐️ used
   - Contract
   - Module
   - Library
   - Package
   - Component
   - Framework
-  - Platform k
+  - Platform: 🎓 known
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering k
+  - Software engineering: 🎓 known
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY) u
+  - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle
 - Syntax and concepts
-  - Value u
+  - Value: 🖐️ used
   - Identifier
-  - Variable u
-  - Constant u
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
-  - Expression u
+  - Expression: 🖐️ used
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
-  - Method k
-  - Class k
+  - Method: 🎓 known
+  - Class: 🎓 known
   - Prototype
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block k
+  - Code block: 🎓 known
   - Conditions
-  - Loops u
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions u
-  - Coding conventions u
-  - Camel case u
-  - Snake case u
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
   - Kebab case
   - Trailing commas
   - Return early
@@ -87,13 +87,13 @@
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure k
+  - Closure: 🎓 known
   - Partial application
   - Currying
-  - Higher order k
-  - Recursion k
+  - Higher order: 🎓 known
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback k
+  - Callback: 🎓 known
   - Listener
   - Composition
   - Pipe
@@ -105,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
-  - Structure k
+  - Array: 🖐️ used
+  - Structure: 🎓 known
   - Record
   - Enum
   - Instance
-  - Object u
+  - Object: 🖐️ used
   - Collection
-  - Set u
+  - Set: 🖐️ used
   - Hash table
   - Linked list
   - Doubly list
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON u
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler k
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -161,11 +161,11 @@
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review k
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git u
-  - Github u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers k
+  - Drivers: 🎓 known
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux k
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS k
-  - Windows k
+  - MacOS: 🎓 known
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
@@ -229,7 +229,7 @@
   - IANA
   - IEEE
   - Base64
-  - ECMA h
+  - ECMA: 👂 heard
   - ICANN
   - ISO
   - MIME

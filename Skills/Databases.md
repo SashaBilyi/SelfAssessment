@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types k
+  - Data types: 🎓 known
   - Performance tuning
   - Migrations
   - Schema versioning
