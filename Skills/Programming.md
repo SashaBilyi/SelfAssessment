@@ -4,63 +4,63 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm u
+  - Syntax u
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm k
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
   - Module
   - Library
   - Package
   - Component
   - Framework
-  - Platform
+  - Platform k
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering k
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) u
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value u
   - Identifier
-  - Variable
-  - Constant
+  - Variable u
+  - Constant u
   - Scalar
   - Literal
-  - Expression
+  - Expression u
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
+  - Method k
+  - Class k
   - Prototype
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block
+  - Code block k
   - Conditions
-  - Loops
+  - Loops u
   - Assignment
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case u
   - Kebab case
   - Trailing commas
   - Return early
@@ -87,13 +87,13 @@
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure k
   - Partial application
   - Currying
-  - Higher order
-  - Recursion
+  - Higher order k
+  - Recursion k
   - Tail call optimisation
-  - Callback
+  - Callback k
   - Listener
   - Composition
   - Pipe
@@ -105,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array u
+  - Structure 
   - Record
   - Enum
   - Instance
-  - Object
+  - Object u
   - Collection
-  - Set
+  - Set u
   - Hash table
   - Linked list
   - Doubly list
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON u
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler k
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -161,11 +161,11 @@
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
+  - Code review k
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers k
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux k
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows k
   - Real-time OS
   - Embedded OS
 - Standards
@@ -229,7 +229,7 @@
   - IANA
   - IEEE
   - Base64
-  - ECMA
+  - ECMA h
   - ICANN
   - ISO
   - MIME
